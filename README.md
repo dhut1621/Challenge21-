@@ -1,4 +1,16 @@
-# Challenge21-
+# Challenge21-Crowdsale
+Three solidity contracts: one for creating an ERC-20 token (KASEI), one for creating a crowdsale for the token, and one for deploying both the token and crowdsale.
+
+---
+
+## Technologies
+
+- solidity 0.5.5
+- openzepplin-contracts 2.5.0
+
+---
+
+## Evaluation Evidence
 
 
 
@@ -16,3 +28,9 @@
 
 
 <img width="950" alt="2022-12-21" src="https://user-images.githubusercontent.com/107014664/209054405-69669b2e-e725-417c-821e-f892796de4e1.png">
+
+## Contributors
+David Hutsell
+
+## License
+UW Fintech
